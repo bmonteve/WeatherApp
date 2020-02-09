@@ -1,1 +1,3 @@
 # WeatherApp
+
+This app enables a user to start off seeing the forecast (current and 5 day) for San Diego. Will patch an update for current location and functionality of the Navigation bar. Allows a user to input a city to search for on the click of the button. It will add a city block, always available for a user to click, to the city panel. The main panel will show the current day forecast with details of the day. The bottom shows the next 5 days of temperature detailss.

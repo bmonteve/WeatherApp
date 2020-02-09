@@ -1,0 +1,85 @@
+.html{
+    padding: 0px;
+}
+.container-fluid{
+    height: 100vh;
+    padding: 0px;
+}
+
+#btn-search{
+    background-color: rgb(46, 163, 236);
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#searchBar{
+    display: inline;
+}
+
+.city-panel{
+    padding: 10px;
+    background-color: rgb(230, 226, 226);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);   
+}
+
+.forecast-panel{
+    padding: 10px;
+}
+
+#display{
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 15px;
+    margin: auto;
+    display: block;
+    
+}
+
+#forecast{
+    width: 100%;
+    height: 50%;
+    border-radius: 10px;
+    padding-top: 15px;
+    margin: auto;
+}
+
+.blocks{
+    width: 19%;
+    height: 200px;
+    margin-right: 1.25%;
+    border-radius: 5px;
+    background-color: rgb(40, 120, 218);
+    color: white;
+    padding: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#day6{
+    margin: 0px;
+}
+
+.cityBlock{
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+#weatherIcon{
+    display: inline;
+}
+
+#currentCity{
+    display: inline-block;
+    font-size: 28px;
+}
+
+:last-child{
+    margin: 0px;
+}
+
+#blockText{
+    font-size: 12px;
+}
